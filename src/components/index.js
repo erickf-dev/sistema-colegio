@@ -1,0 +1,5 @@
+export { default as Header } from './Header/Header'
+export { default as StatsContainer } from './Stats/StatsContainer'
+export { default as SearchBar } from './Students/SearchBar'
+export { default as StudentForm } from './Students/StudentForm'
+export { default as StudentList } from './Students/StudentList'
